@@ -75,7 +75,7 @@ I turn **messy business data into actionable insights** that drive strategic dec
 ### 🛍️ Customer Segmentation & Retention
 **Tech:** SQL, Python, Tableau  
 **Impact:** Segmented customers for targeted campaigns, measured lifetime value, improved retention strategies.  
-👉 [Repo Link](#)
+👉 [Data-Portfolio](https://github.com/Tumelo19/Data-Portfolio)
 
 ### 📈 Automated Reporting Pipeline
 **Tech:** Python, GitHub Actions  
